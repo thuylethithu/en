@@ -89,7 +89,7 @@
   </url>
   <url>
     <loc>http://thuylethithu.github.io/a-garden.html</loc>
-    <lastmod>2018-05-02</lastmod>
+    <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,6 +101,9 @@
     <image:image>
       <image:loc>http://thuylethithu.github.io/images/p1000384-crop-u531.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/untitled-1.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thuylethithu.github.io/work_4.html</loc>
@@ -108,16 +111,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuylethithu.github.io/images/p1000597.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thuylethithu.github.io/images/p1000166-crop-u904.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/p1000593-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/p1000594-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -125,6 +119,15 @@
     <lastmod>2018-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000597.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000593-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000594-2.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://thuylethithu.github.io/images/16,,-crop-u935.jpg</image:loc>
     </image:image>

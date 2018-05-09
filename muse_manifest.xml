@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1525876113389">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1525879560982">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4245245812" ref="index"/>
-    <file name="work_4.css" crc="249396563" ref="work_4"/>
+    <file name="work_4.css" crc="4184152864" ref="work_4"/>
     <file name="aboutcontact.css" crc="4160667661" ref="aboutcontact"/>
-    <file name="a-garden.css" crc="3958446545" ref="a-garden"/>
+    <file name="a-garden.css" crc="350866336" ref="a-garden"/>
     <file name="curriculum.css" crc="3959259075" ref="curriculum"/>
     <file name="work_2.css" crc="67625661" ref="work_2"/>
     <file name="work_1.css" crc="91660759" ref="work_1"/>
-    <file name="work_3.css" crc="274369440" ref="work_3"/>
+    <file name="work_3.css" crc="60172210" ref="work_3"/>
   </folder>
   <folder name="assets">
     <file name="°_thuy-lê-thi-thu_2018.mov" crc="445917786" seo="true" mt="1516748186000"/>
@@ -67,9 +67,6 @@
     <file name="p1000384-crop-u531.jpg" crc="482875694" seo="true" ref="a-garden">
       <caption webpage="a-garden" alt=""/>
     </file>
-    <file name="u602-4.png" crc="349376554" ref="a-garden"/>
-    <file name="u605-4.png" crc="373179855" ref="a-garden"/>
-    <file name="u608-4.png" crc="319254076" ref="a-garden"/>
     <file name="12-crop-u721.jpg" crc="128788590" seo="true" ref="work_1">
       <caption webpage="work_1" alt=""/>
     </file>
@@ -97,28 +94,34 @@
     <file name="_dsc0291-crop-u844.jpg" crc="111670814" seo="true" ref="work_1">
       <caption webpage="work_1" alt=""/>
     </file>
-    <file name="p1000597.jpg" crc="329753751" seo="true" ref="work_4">
+    <file name="p1000597.jpg" crc="329753751" seo="true" ref="work_3">
+      <caption webpage="work_3" alt=""/>
       <caption webpage="work_4" alt=""/>
     </file>
     <file name="p1000166-crop-u904.jpg" crc="4090194712" seo="true" ref="work_4">
       <caption webpage="work_4" alt=""/>
     </file>
-    <file name="p1000593-2.jpg" crc="4215930797" seo="true" ref="work_4">
+    <file name="p1000593-2.jpg" crc="4215930797" seo="true" ref="work_3">
+      <caption webpage="work_3" alt=""/>
       <caption webpage="work_4" alt=""/>
     </file>
-    <file name="p1000594-2.jpg" crc="3942717848" seo="true" ref="work_4">
+    <file name="p1000594-2.jpg" crc="3942717848" seo="true" ref="work_3">
+      <caption webpage="work_3" alt=""/>
       <caption webpage="work_4" alt=""/>
     </file>
     <file name="16,,-crop-u935.jpg" crc="461738668" seo="true" ref="work_3">
       <caption webpage="work_3" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="310305648" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="315259804" seo="true" mt="1525871252559" redirect="true"/>
   <file name="curriculum.html" crc="347120566" seo="true" mt="1525562756241" redirect="true"/>
   <file name="aboutcontact.html" crc="4157069350" seo="true" mt="1525875804801" redirect="true"/>
   <file name="work_2.html" crc="3873503973" seo="true" mt="1525867051879" redirect="true"/>
-  <file name="a-garden.html" crc="92317785" seo="true" mt="1525294145084" redirect="true"/>
+  <file name="a-garden.html" crc="235811181" seo="true" mt="1525878717092" redirect="true"/>
   <file name="work_1.html" crc="422562622" seo="true" mt="1525870803415" redirect="true"/>
-  <file name="work_4.html" crc="63967719" seo="true" mt="1525871321909" redirect="true"/>
-  <file name="work_3.html" crc="3771503057" seo="true" mt="1525871372774" redirect="true"/>
+  <file name="work_4.html" crc="116308954" seo="true" mt="1525878770788" redirect="true"/>
+  <file name="work_3.html" crc="3826961532" seo="true" mt="1525878789694" redirect="true"/>
 </manifest>
