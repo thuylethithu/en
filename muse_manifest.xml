@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1525879560982">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1526477930640">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4245245812" ref="index"/>
-    <file name="work_4.css" crc="4184152864" ref="work_4"/>
-    <file name="aboutcontact.css" crc="4160667661" ref="aboutcontact"/>
+    <file name="work_4.css" crc="317437706" ref="work_4"/>
+    <file name="aboutcontact.css" crc="240708440" ref="aboutcontact"/>
     <file name="a-garden.css" crc="350866336" ref="a-garden"/>
     <file name="curriculum.css" crc="3959259075" ref="curriculum"/>
     <file name="work_2.css" crc="67625661" ref="work_2"/>
@@ -50,7 +50,6 @@
       <caption webpage="aboutcontact" alt=""/>
     </file>
     <file name="u696-4.png" crc="4075983796" ref="aboutcontact"/>
-    <file name="u693-22.png" crc="4254041306" ref="aboutcontact"/>
     <file name="a garden-crop-u480.jpg" crc="4147364954" seo="true" ref="work_2">
       <caption webpage="work_2" alt=""/>
     </file>
@@ -98,9 +97,6 @@
       <caption webpage="work_3" alt=""/>
       <caption webpage="work_4" alt=""/>
     </file>
-    <file name="p1000166-crop-u904.jpg" crc="4090194712" seo="true" ref="work_4">
-      <caption webpage="work_4" alt=""/>
-    </file>
     <file name="p1000593-2.jpg" crc="4215930797" seo="true" ref="work_3">
       <caption webpage="work_3" alt=""/>
       <caption webpage="work_4" alt=""/>
@@ -115,13 +111,20 @@
     <file name="untitled-1.png" crc="310305648" seo="true" ref="a-garden">
       <caption webpage="a-garden" alt=""/>
     </file>
+    <file name="u693-11.png" crc="477756602" ref="aboutcontact"/>
+    <file name="u1019-4.png" crc="4228507551" ref="aboutcontact"/>
+    <file name="u1016-4.png" crc="3850167873" ref="aboutcontact"/>
+    <file name="u1022-9.png" crc="218632960" ref="aboutcontact"/>
+    <file name="thuy (definitief) (transparant)-crop-u1025.jpg" crc="87407673" seo="true" ref="work_4">
+      <caption webpage="work_4" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="315259804" seo="true" mt="1525871252559" redirect="true"/>
   <file name="curriculum.html" crc="347120566" seo="true" mt="1525562756241" redirect="true"/>
-  <file name="aboutcontact.html" crc="4157069350" seo="true" mt="1525875804801" redirect="true"/>
+  <file name="aboutcontact.html" crc="4183922484" seo="true" mt="1525880819650" redirect="true"/>
   <file name="work_2.html" crc="3873503973" seo="true" mt="1525867051879" redirect="true"/>
   <file name="a-garden.html" crc="235811181" seo="true" mt="1525878717092" redirect="true"/>
   <file name="work_1.html" crc="422562622" seo="true" mt="1525870803415" redirect="true"/>
-  <file name="work_4.html" crc="116308954" seo="true" mt="1525878770788" redirect="true"/>
+  <file name="work_4.html" crc="3996533366" seo="true" mt="1526477734932" redirect="true"/>
   <file name="work_3.html" crc="3826961532" seo="true" mt="1525878789694" redirect="true"/>
 </manifest>
