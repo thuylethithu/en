@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1526477930640">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1526505553174">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4245245812" ref="index"/>
-    <file name="work_4.css" crc="317437706" ref="work_4"/>
+    <file name="work_4.css" crc="470372749" ref="work_4"/>
     <file name="aboutcontact.css" crc="240708440" ref="aboutcontact"/>
-    <file name="a-garden.css" crc="350866336" ref="a-garden"/>
-    <file name="curriculum.css" crc="3959259075" ref="curriculum"/>
-    <file name="work_2.css" crc="67625661" ref="work_2"/>
-    <file name="work_1.css" crc="91660759" ref="work_1"/>
-    <file name="work_3.css" crc="60172210" ref="work_3"/>
+    <file name="a-garden.css" crc="3902955289" ref="a-garden"/>
+    <file name="curriculum.css" crc="98982935" ref="curriculum"/>
+    <file name="work_2.css" crc="4171552343" ref="work_2"/>
+    <file name="work_1.css" crc="534957606" ref="work_1"/>
+    <file name="work_3.css" crc="34491833" ref="work_3"/>
   </folder>
   <folder name="assets">
     <file name="°_thuy-lê-thi-thu_2018.mov" crc="445917786" seo="true" mt="1516748186000"/>
@@ -44,7 +44,6 @@
     <file name="u425-14.png" crc="96792959" ref="curriculum"/>
     <file name="u428-119.png" crc="92453045" ref="curriculum"/>
     <file name="u431-30.png" crc="3876840050" ref="curriculum"/>
-    <file name="u434-7.png" crc="298335324" ref="curriculum"/>
     <file name="u438-42.png" crc="4184441772" ref="curriculum"/>
     <file name="p1000212-crop-u663.jpg" crc="146525068" seo="true" ref="aboutcontact">
       <caption webpage="aboutcontact" alt=""/>
@@ -60,71 +59,61 @@
     <file name="p1000213-crop-u556.jpg" crc="4095991617" seo="true" ref="a-garden">
       <caption webpage="a-garden" alt=""/>
     </file>
-    <file name="p1000415-crop-u543.jpg" crc="13380343" seo="true" ref="a-garden">
-      <caption webpage="a-garden" alt=""/>
-    </file>
-    <file name="p1000384-crop-u531.jpg" crc="482875694" seo="true" ref="a-garden">
-      <caption webpage="a-garden" alt=""/>
-    </file>
-    <file name="12-crop-u721.jpg" crc="128788590" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="16 copy-2-crop-u774.jpg" crc="3817659269" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="thuy-2-crop-u784.jpg" crc="211970990" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="14-2-crop-u794.jpg" crc="211073142" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="img_6101-2-crop-u764.jpg" crc="148905546" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="img_6100-crop-u728.jpg" crc="4033647169" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="screen shot 2017-11-30 at 112025-crop-u834.jpg" crc="346651852" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="11-2-crop-u824.jpg" crc="452020673" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="_dsc0291-crop-u844.jpg" crc="111670814" seo="true" ref="work_1">
-      <caption webpage="work_1" alt=""/>
-    </file>
-    <file name="p1000597.jpg" crc="329753751" seo="true" ref="work_3">
-      <caption webpage="work_3" alt=""/>
-      <caption webpage="work_4" alt=""/>
-    </file>
-    <file name="p1000593-2.jpg" crc="4215930797" seo="true" ref="work_3">
-      <caption webpage="work_3" alt=""/>
-      <caption webpage="work_4" alt=""/>
-    </file>
-    <file name="p1000594-2.jpg" crc="3942717848" seo="true" ref="work_3">
-      <caption webpage="work_3" alt=""/>
-      <caption webpage="work_4" alt=""/>
-    </file>
-    <file name="16,,-crop-u935.jpg" crc="461738668" seo="true" ref="work_3">
-      <caption webpage="work_3" alt=""/>
-    </file>
-    <file name="untitled-1.png" crc="310305648" seo="true" ref="a-garden">
-      <caption webpage="a-garden" alt=""/>
-    </file>
     <file name="u693-11.png" crc="477756602" ref="aboutcontact"/>
     <file name="u1019-4.png" crc="4228507551" ref="aboutcontact"/>
     <file name="u1016-4.png" crc="3850167873" ref="aboutcontact"/>
     <file name="u1022-9.png" crc="218632960" ref="aboutcontact"/>
-    <file name="thuy (definitief) (transparant)-crop-u1025.jpg" crc="87407673" seo="true" ref="work_4">
+    <file name="thuy (definitief) (transparant)-crop-u1025.jpg" crc="3854790891" seo="true" ref="work_4">
       <caption webpage="work_4" alt=""/>
     </file>
+    <file name="u434-5.png" crc="428385214" ref="curriculum"/>
+    <file name="u1105-4.png" crc="4078221583" ref="work_2"/>
+    <file name="origin of the fish.png" crc="445561098" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="glass view-crop-u1151.jpg" crc="3762418680" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="glass view copy.jpg" crc="4030327243" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="exit.png" crc="3836955145" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="animal cinema.png" crc="351470217" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="gift.png" crc="453556986" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="books-crop-u1350.png" crc="4123144601" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="corner-crop-u1269.png" crc="4250309932" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="corner-crop-u1279.png" crc="477037206" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="corner piece-crop-u1289.png" crc="3826183507" seo="true" ref="work_3">
+      <caption webpage="work_3" alt=""/>
+    </file>
+    <file name="12-crop-u1337.jpg" crc="128788590" seo="true" ref="work_1">
+      <caption webpage="work_1" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-30 at 112025-crop-u1319.jpg" crc="4197538056" seo="true" ref="work_1">
+      <caption webpage="work_1" alt=""/>
+    </file>
+    <file name="11-2-crop-u1317.jpg" crc="145758151" seo="true" ref="work_1">
+      <caption webpage="work_1" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="315259804" seo="true" mt="1525871252559" redirect="true"/>
-  <file name="curriculum.html" crc="347120566" seo="true" mt="1525562756241" redirect="true"/>
+  <file name="index.html" crc="315259804" seo="true" mt="1526504716577" redirect="true"/>
+  <file name="curriculum.html" crc="171794669" seo="true" mt="1526485349717" redirect="true"/>
   <file name="aboutcontact.html" crc="4183922484" seo="true" mt="1525880819650" redirect="true"/>
-  <file name="work_2.html" crc="3873503973" seo="true" mt="1525867051879" redirect="true"/>
-  <file name="a-garden.html" crc="235811181" seo="true" mt="1525878717092" redirect="true"/>
-  <file name="work_1.html" crc="422562622" seo="true" mt="1525870803415" redirect="true"/>
-  <file name="work_4.html" crc="3996533366" seo="true" mt="1526477734932" redirect="true"/>
-  <file name="work_3.html" crc="3826961532" seo="true" mt="1525878789694" redirect="true"/>
+  <file name="work_2.html" crc="167520661" seo="true" mt="1526486517853" redirect="true"/>
+  <file name="a-garden.html" crc="372339045" seo="true" mt="1526505317027" redirect="true"/>
+  <file name="work_1.html" crc="80583907" seo="true" mt="1526504676920" redirect="true"/>
+  <file name="work_4.html" crc="4259350537" seo="true" mt="1526505522789" redirect="true"/>
+  <file name="work_3.html" crc="3995522722" seo="true" mt="1526504505250" redirect="true"/>
 </manifest>
