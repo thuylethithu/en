@@ -72,3 +72,64 @@ Logging in build 2018.1.0.266 started at: Wed May  9 16:39:19 2018
 [00:00:10.736] 16:39:29.781 | Recovered file:Website-1(2) path:/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse highest UID:941 filesize:8814592 mod date:Wed May 9 15:09:44 GMT+0200 2018
 [00:00:11.392] 16:39:30.438 | Recovery Complete
 [00:46:41.985] 17:26:01.030 | HTMLExport Website-1(2)(8 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[01:08:06.936] 17:47:25.982 | Beginning SaveAs of 'Website-1(2)' to file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1024
+[01:08:08.511] 17:47:27.556 | SaveAs complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:2621440 mod Date:Wed May 9 17:47:27 GMT+0200 2018 highest UID:1024
+[02:18:20.990] 18:57:40.036 | quitWithUI:Quitting Application. Called by: 
+[02:18:25.330] 18:57:44.376 | Quitting Application after 138.4 minutes. Called by: MuseApp/quitAfterProcessesComplete+closeOne+onCloseComplete+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent
+[02:18:28.042] Logging shutdown normally
+
+==========
+Logging ended at: Wed May  9 18:57:47 2018
+
+Logging in build 2018.1.0.266 started at: Tue May 15 22:46:39 2018
+========================================
+[00:00:10.724] 22:46:50.145 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[00:00:23.993] 22:47:03.414 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse with size:2621440 mod Date:Wed May 9 17:47:27 GMT+0200 2018
+[00:00:24.002] 22:47:03.423 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' with status:success size:2621440 mod Date:Wed May 9 17:47:27 GMT+0200 2018 highestUID: 1024
+[05:54:14.624] 04:40:54.043 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[05:54:36.432] 04:41:15.852 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[06:27:42.944] 05:14:22.349 | Error - IMS : ErrorCode=22 ErrorMessage=
+[06:28:07.641] 05:14:47.062 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[07:40:42.662] 06:27:22.083 | Error - IMS : ErrorCode=22 ErrorMessage=
+[07:40:55.794] 06:27:35.215 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[08:26:53.914] 07:13:33.335 | Error - IMS : ErrorCode=22 ErrorMessage=
+[08:27:19.204] 07:13:58.625 | AssertInDebug: fireIMSEvent while token fetch in progress-
+[16:49:33.751] 15:36:13.172 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1034
+[16:49:35.204] 15:36:14.625 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:2883584 mod Date:Wed May 16 15:36:14 GMT+0200 2018 highest UID:1034
+[16:52:11.259] 15:38:50.680 | HTMLExport Website-1(2)(8 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[21:49:03.007] 20:35:42.426 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1255
+[21:49:04.983] 20:35:44.404 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:11960320 mod Date:Wed May 16 20:35:44 GMT+0200 2018 highest UID:1255
+[21:49:10.197] 20:35:49.618 | quitWithUI:Quitting Application. Called by: 
+[21:49:12.621] 20:35:52.042 | Quitting Application after 1309.1 minutes. Called by: 
+[21:49:15.739] Logging shutdown normally
+
+==========
+Logging ended at: Wed May 16 20:35:55 2018
+
+Logging in build 2018.1.0.266 started at: Wed May 16 22:27:07 2018
+========================================
+[00:00:10.396] 22:27:17.957 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[00:00:23.549] 22:27:31.111 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse with size:11960320 mod Date:Wed May 16 20:35:44 GMT+0200 2018
+[00:00:23.581] 22:27:31.143 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' with status:success size:11960320 mod Date:Wed May 16 20:35:44 GMT+0200 2018 highestUID: 1255
+[00:09:37.813] 22:36:45.375 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1255
+[00:09:39.683] 22:36:47.244 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:11960320 mod Date:Wed May 16 22:36:47 GMT+0200 2018 highest UID:1255
+[00:09:41.660] 22:36:49.221 | quitWithUI:Quitting Application. Called by: 
+[00:09:42.854] 22:36:50.416 | Quitting Application after 9.6 minutes. Called by: 
+[00:09:45.491] Logging shutdown normally
+
+==========
+Logging ended at: Wed May 16 22:36:53 2018
+
+Logging in build 2018.1.0.266 started at: Wed May 16 22:36:56 2018
+========================================
+[00:00:08.941] 22:37:05.821 | Error - IMS : ErrorCode=80 ErrorMessage=access_denied
+[00:00:19.227] 22:37:16.107 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse with size:11960320 mod Date:Wed May 16 22:36:47 GMT+0200 2018
+[00:00:19.258] 22:37:16.139 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' with status:success size:11960320 mod Date:Wed May 16 22:36:47 GMT+0200 2018 highestUID: 1255
+[00:15:15.360] 22:52:12.240 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1288
+[00:15:17.192] 22:52:14.072 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Wed May 16 22:52:13 GMT+0200 2018 highest UID:1288
+[00:42:16.378] 23:19:13.258 | HTMLExport Website-1(2)(8 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[01:02:26.508] 23:39:23.388 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1371
+[01:02:28.819] 23:39:25.699 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Wed May 16 23:39:25 GMT+0200 2018 highest UID:1371
+[01:10:08.040] 23:47:04.920 | Beginning Save for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' highest UID:1427
+[01:10:10.126] 23:47:07.006 | Save complete for file '/Users/Thuy/Desktop/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Wed May 16 23:47:06 GMT+0200 2018 highest UID:1427
+[01:20:23.926] 23:57:20.806 | HTMLExport Website-1(2)(10 pages) to 'thuylethithu.github.io' completed with 0 warnings.

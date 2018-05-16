@@ -25,51 +25,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuylethithu.github.io/work_2.html</loc>
-    <lastmod>2018-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/a%20garden-crop-u480.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/p1000213-crop-u496.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thuylethithu.github.io/curriculum.html</loc>
-    <lastmod>2018-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/img_20170309_170020.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thuylethithu.github.io/aboutcontact.html</loc>
-    <lastmod>2018-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/p1000212-crop-u663.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://thuylethithu.github.io/work_1.html</loc>
-    <lastmod>2018-05-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/12-crop-u1337.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/screen%20shot%202017-11-30%20at%20112025-crop-u1319.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuylethithu.github.io/images/11-2-crop-u1317.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://thuylethithu.github.io/a-garden.html</loc>
     <lastmod>2018-05-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,14 +59,38 @@
     <image:image>
       <image:loc>http://thuylethithu.github.io/images/corner-crop-u1279.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/5.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://thuylethithu.github.io/work_4.html</loc>
+    <loc>http://thuylethithu.github.io/curriculum.html</loc>
     <lastmod>2018-05-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuylethithu.github.io/images/thuy%20(definitief)%20(transparant)-crop-u1025.jpg</image:loc>
+      <image:loc>http://thuylethithu.github.io/images/img_20170309_170020.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/aboutcontact.html</loc>
+    <lastmod>2018-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000212-crop-u663.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/work_2.html</loc>
+    <lastmod>2018-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/a%20garden-crop-u480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000213-crop-u496.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -124,7 +103,52 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuylethithu.github.io/assets/%C2%B0_thuy-l%C3%AA-thi-thu_2018.mov</loc>
+    <loc>http://thuylethithu.github.io/work_1.html</loc>
+    <lastmod>2018-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/12-crop-u1337.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/screen%20shot%202017-11-30%20at%20112025-crop-u1319.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/11-2-crop-u1317.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/work_4.html</loc>
+    <lastmod>2018-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/p1000166-crop-u1470.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/animal-cinema.html</loc>
+    <lastmod>2018-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/48.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/match.html</loc>
+    <lastmod>2018-05-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuylethithu.github.io/images/8.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuylethithu.github.io/assets/%C2%B0.mov</loc>
     <lastmod>2018-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

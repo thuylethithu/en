@@ -1,25 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1526505553174">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1526507840056">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4245245812" ref="index"/>
-    <file name="work_4.css" crc="470372749" ref="work_4"/>
+    <file name="work_4.css" crc="392628013" ref="work_4"/>
     <file name="aboutcontact.css" crc="240708440" ref="aboutcontact"/>
-    <file name="a-garden.css" crc="3902955289" ref="a-garden"/>
+    <file name="a-garden.css" crc="54692407" ref="a-garden"/>
     <file name="curriculum.css" crc="98982935" ref="curriculum"/>
     <file name="work_2.css" crc="4171552343" ref="work_2"/>
     <file name="work_1.css" crc="534957606" ref="work_1"/>
     <file name="work_3.css" crc="34491833" ref="work_3"/>
+    <file name="match.css" crc="3804803570" ref="match"/>
+    <file name="animal-cinema.css" crc="39311662" ref="animal-cinema"/>
   </folder>
   <folder name="assets">
-    <file name="°_thuy-lê-thi-thu_2018.mov" crc="445917786" seo="true" mt="1516748186000"/>
+    <file name="°.mov" crc="445917786" seo="true" mt="1516748186000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
-    <file name="museutils.js" crc="340535759" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
-    <file name="museconfig.js" crc="310584261" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
-    <file name="require.js" crc="7928878" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
+    <file name="museutils.js" crc="340535759" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
+    <file name="whatinput.js" crc="86476730" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
+    <file name="museconfig.js" crc="310584261" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
+    <file name="require.js" crc="7928878" ref="index:curriculum:aboutcontact:work_2:a-garden:work_1:work_4:work_3:animal-cinema:match"/>
   </folder>
   <folder name="images">
     <file name="p1000212-crop-u168.jpg" crc="3866792226" seo="true" ref="index">
@@ -63,9 +65,6 @@
     <file name="u1019-4.png" crc="4228507551" ref="aboutcontact"/>
     <file name="u1016-4.png" crc="3850167873" ref="aboutcontact"/>
     <file name="u1022-9.png" crc="218632960" ref="aboutcontact"/>
-    <file name="thuy (definitief) (transparant)-crop-u1025.jpg" crc="3854790891" seo="true" ref="work_4">
-      <caption webpage="work_4" alt=""/>
-    </file>
     <file name="u434-5.png" crc="428385214" ref="curriculum"/>
     <file name="u1105-4.png" crc="4078221583" ref="work_2"/>
     <file name="origin of the fish.png" crc="445561098" seo="true" ref="a-garden">
@@ -107,13 +106,32 @@
     <file name="11-2-crop-u1317.jpg" crc="145758151" seo="true" ref="work_1">
       <caption webpage="work_1" alt=""/>
     </file>
+    <file name="u1373-4-a.png" crc="4078221583" ref="a-garden"/>
+    <file name="u1423-4-a.png" crc="4078221583" ref="a-garden"/>
+    <file name="5.jpg" crc="335991672" seo="true" ref="a-garden">
+      <caption webpage="a-garden" alt=""/>
+    </file>
+    <file name="p1000166-crop-u1470.jpg" crc="186184633" seo="true" ref="work_4">
+      <caption webpage="work_4" alt=""/>
+    </file>
+    <file name="48.jpg" crc="5552781" seo="true" ref="animal-cinema">
+      <caption webpage="animal-cinema" alt=""/>
+    </file>
+    <file name="7.jpg" crc="197052174" seo="true" ref="match">
+      <caption webpage="match" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4098524292" seo="true" ref="match">
+      <caption webpage="match" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="315259804" seo="true" mt="1526504716577" redirect="true"/>
   <file name="curriculum.html" crc="171794669" seo="true" mt="1526485349717" redirect="true"/>
   <file name="aboutcontact.html" crc="4183922484" seo="true" mt="1525880819650" redirect="true"/>
   <file name="work_2.html" crc="167520661" seo="true" mt="1526486517853" redirect="true"/>
-  <file name="a-garden.html" crc="372339045" seo="true" mt="1526505317027" redirect="true"/>
+  <file name="a-garden.html" crc="13642140" seo="true" mt="1526507462405" redirect="true"/>
   <file name="work_1.html" crc="80583907" seo="true" mt="1526504676920" redirect="true"/>
-  <file name="work_4.html" crc="4259350537" seo="true" mt="1526505522789" redirect="true"/>
+  <file name="work_4.html" crc="3765259720" seo="true" mt="1526507696727" redirect="true"/>
   <file name="work_3.html" crc="3995522722" seo="true" mt="1526504505250" redirect="true"/>
+  <file name="animal-cinema.html" crc="3969846786" seo="true" mt="1526507729889" redirect="true"/>
+  <file name="match.html" crc="63705849" seo="true" mt="1526507481238" redirect="true"/>
 </manifest>
