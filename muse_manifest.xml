@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1527535635494">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1527625648329">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4141564165" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="a-garden.css" crc="54692407" ref="a-garden"/>
     <file name="curriculum.css" crc="3767604599" ref="curriculum"/>
     <file name="work_2.css" crc="4171552343" ref="work_2"/>
-    <file name="work_1.css" crc="534957606" ref="work_1"/>
-    <file name="work_3.css" crc="34491833" ref="work_3"/>
+    <file name="work_1.css" crc="3997173100" ref="work_1"/>
+    <file name="work_3.css" crc="443293968" ref="work_3"/>
     <file name="match.css" crc="3804803570" ref="match"/>
     <file name="animal-cinema.css" crc="39311662" ref="animal-cinema"/>
     <file name="perv.css" crc="4089073035" ref="perv"/>
@@ -96,7 +96,7 @@
     <file name="p1000212-crop-u663.png" crc="3932971699" seo="true" ref="aboutcontact">
       <caption webpage="aboutcontact" alt=""/>
     </file>
-    <file name="u693-25.png" crc="4269831435" ref="aboutcontact"/>
+    <file name="u693-25.png" crc="144902063" ref="aboutcontact"/>
     <file name="p1000213-crop-u496.png" crc="4214110314" seo="true" ref="work_2">
       <caption webpage="work_2" alt=""/>
     </file>
@@ -125,15 +125,21 @@
       <caption webpage="perv" alt=""/>
     </file>
     <file name="u1539-6.png" crc="4012356091" ref="perv"/>
+    <file name="img_6104.jpg" crc="3568068" seo="true" ref="work_1">
+      <caption webpage="work_1" alt=""/>
+    </file>
+    <file name="_dsc0291.jpg" crc="307531756" seo="true" ref="work_1">
+      <caption webpage="work_1" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4109900171" seo="true" mt="1526554598031" redirect="true"/>
   <file name="curriculum.html" crc="79531045" seo="true" mt="1526554598033" redirect="true"/>
-  <file name="aboutcontact.html" crc="3909393269" seo="true" mt="1526554598033" redirect="true"/>
+  <file name="aboutcontact.html" crc="3900011264" seo="true" mt="1527623468686" redirect="true"/>
   <file name="work_2.html" crc="4120585975" seo="true" mt="1526554598034" redirect="true"/>
   <file name="a-garden.html" crc="4206611212" seo="true" mt="1526554598034" redirect="true"/>
-  <file name="work_1.html" crc="4133673541" seo="true" mt="1526554598037" redirect="true"/>
+  <file name="work_1.html" crc="4146866857" seo="true" mt="1527625049496" redirect="true"/>
   <file name="work_4.html" crc="24474287" seo="true" mt="1526554598035" redirect="true"/>
-  <file name="work_3.html" crc="3995522722" seo="true" mt="1526554598036" redirect="true"/>
+  <file name="work_3.html" crc="3818121391" seo="true" mt="1527624917251" redirect="true"/>
   <file name="animal-cinema.html" crc="3969846786" seo="true" mt="1526554598038" redirect="true"/>
   <file name="match.html" crc="63705849" seo="true" mt="1526554598038" redirect="true"/>
   <file name="perv.html" crc="4007616576" seo="true" mt="1526554598039" redirect="true"/>
