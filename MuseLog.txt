@@ -213,3 +213,8 @@ Logging in build 2018.1.0.266 started at: Tue May 29 22:07:38 2018
 [00:19:35.349] 22:27:13.550 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1620
 [00:19:36.830] 22:27:15.031 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Tue May 29 22:27:14 GMT+0200 2018 highest UID:1620
 [00:19:50.173] 22:27:28.374 | HTMLExport Website-1(2)(11 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[00:37:00.382] 22:44:38.582 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1620
+[00:37:01.858] 22:44:40.058 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Tue May 29 22:44:39 GMT+0200 2018 highest UID:1620
+[00:40:04.415] 22:47:42.616 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1630
+[00:40:05.905] 22:47:44.106 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018 highest UID:1630
+[00:40:11.150] 22:47:49.351 | HTMLExport Website-1(2)(11 pages) to 'thuylethithu.github.io' completed with 0 warnings.

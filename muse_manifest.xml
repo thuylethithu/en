@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1527625648329">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuylethithu.github.io" resolutions="1x" timestamp="1527626869328">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4141564165" ref="index"/>
@@ -7,7 +7,7 @@
     <file name="a-garden.css" crc="54692407" ref="a-garden"/>
     <file name="curriculum.css" crc="3767604599" ref="curriculum"/>
     <file name="work_2.css" crc="4171552343" ref="work_2"/>
-    <file name="work_1.css" crc="3997173100" ref="work_1"/>
+    <file name="work_1.css" crc="385216784" ref="work_1"/>
     <file name="work_3.css" crc="443293968" ref="work_3"/>
     <file name="match.css" crc="3804803570" ref="match"/>
     <file name="animal-cinema.css" crc="39311662" ref="animal-cinema"/>
@@ -128,7 +128,7 @@
     <file name="img_6104.jpg" crc="3568068" seo="true" ref="work_1">
       <caption webpage="work_1" alt=""/>
     </file>
-    <file name="_dsc0291.jpg" crc="307531756" seo="true" ref="work_1">
+    <file name="_dsc0291.jpg" crc="98570870" seo="true" ref="work_1">
       <caption webpage="work_1" alt=""/>
     </file>
   </folder>
@@ -137,7 +137,7 @@
   <file name="aboutcontact.html" crc="3900011264" seo="true" mt="1527623468686" redirect="true"/>
   <file name="work_2.html" crc="4120585975" seo="true" mt="1526554598034" redirect="true"/>
   <file name="a-garden.html" crc="4206611212" seo="true" mt="1526554598034" redirect="true"/>
-  <file name="work_1.html" crc="4146866857" seo="true" mt="1527625049496" redirect="true"/>
+  <file name="work_1.html" crc="4264255708" seo="true" mt="1527626857183" redirect="true"/>
   <file name="work_4.html" crc="24474287" seo="true" mt="1526554598035" redirect="true"/>
   <file name="work_3.html" crc="3818121391" seo="true" mt="1527624917251" redirect="true"/>
   <file name="animal-cinema.html" crc="3969846786" seo="true" mt="1526554598038" redirect="true"/>
