@@ -218,3 +218,16 @@ Logging in build 2018.1.0.266 started at: Tue May 29 22:07:38 2018
 [00:40:04.415] 22:47:42.616 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1630
 [00:40:05.905] 22:47:44.106 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018 highest UID:1630
 [00:40:11.150] 22:47:49.351 | HTMLExport Website-1(2)(11 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[04:40:17.975] 02:47:56.176 | quitWithUI:Quitting Application. Called by: 
+[04:40:17.977] 02:47:56.178 | Quitting Application after 280.2 minutes. Called by: 
+[04:40:20.347] Logging shutdown normally
+
+==========
+Logging ended at: Wed May 30 02:47:58 2018
+
+Logging in build 2018.1.0.266 started at: Wed May 30 20:24:30 2018
+========================================
+[00:00:07.458] 20:24:37.720 | Error - IMS : No AdobeID signed in
+[00:01:33.123] 20:26:03.386 | Trying to open file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse with size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018
+[00:01:33.139] 20:26:03.402 | Opening file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' with status:success size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018 highestUID: 1630
+[00:03:21.191] 20:27:51.454 | HTMLExport Website-1(2)(11 pages) to 'thuylethithu.github.io' completed with 0 warnings.
