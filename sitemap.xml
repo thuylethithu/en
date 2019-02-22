@@ -78,6 +78,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thuy.com/images/site.png</image:loc>
     </image:image>
     <image:image>
@@ -99,7 +102,13 @@
       <image:loc>http://thuy.com/images/exit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/animal%20cinema.png</image:loc>
+      <image:loc>http://thuy.com/images/48.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/screenshot%202019-02-22%20at%20135709.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/p1000458.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -115,6 +124,15 @@
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/8.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/animal-cinema.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/animal%20cinema.png</image:loc>
     </image:image>
   </url>
 </urlset>

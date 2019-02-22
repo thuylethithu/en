@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1550839341317">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1550842971988">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="414204709" ref="index"/>
@@ -8,16 +8,17 @@
     <file name="contact.css" crc="153785434" ref="contact"/>
     <file name="a-garden.css" crc="3992704003" ref="a-garden"/>
     <file name="gift.css" crc="467556674" ref="gift"/>
-    <file name="croxhapox.css" crc="3951690356" ref="croxhapox"/>
+    <file name="croxhapox.css" crc="4001341579" ref="croxhapox"/>
+    <file name="animal-cinema.css" crc="4114049680" ref="animal-cinema"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
-    <file name="museutils.js" crc="340535759" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
-    <file name="whatinput.js" crc="86476730" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
-    <file name="museconfig.js" crc="310584261" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
+    <file name="museutils.js" crc="340535759" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
+    <file name="whatinput.js" crc="86476730" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
+    <file name="museconfig.js" crc="310584261" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:curriculum:about:contact:a-garden:croxhapox:gift"/>
+    <file name="require.js" crc="7928878" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema"/>
   </folder>
   <folder name="images">
     <file name="p1000212.jpg" crc="4166215290" seo="true" ref="index:about">
@@ -34,10 +35,11 @@
     <file name="12-crop-u188.jpg" crc="128788590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="p1000213.jpg" crc="3918599296" seo="true" ref="index:a-garden">
+    <file name="p1000213.jpg" crc="3918599296" seo="true" ref="index:a-garden:croxhapox">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="a-garden" alt=""/>
+      <caption webpage="croxhapox" alt=""/>
     </file>
     <file name="16,,-crop-u178.jpg" crc="461738668" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -78,10 +80,10 @@
     <file name="glass view copy.jpg" crc="57328624" seo="true" ref="croxhapox">
       <caption webpage="croxhapox" alt=""/>
     </file>
-    <file name="books.png" crc="502814236" seo="true" ref="croxhapox">
+    <file name="books.png" crc="392064090" seo="true" ref="croxhapox">
       <caption webpage="croxhapox" alt=""/>
     </file>
-    <file name="corner.png" crc="4186069651" seo="true" ref="croxhapox">
+    <file name="corner.png" crc="3847927930" seo="true" ref="croxhapox">
       <caption webpage="croxhapox" alt=""/>
     </file>
     <file name="gift.png" crc="467547812" seo="true" ref="croxhapox">
@@ -90,8 +92,9 @@
     <file name="exit.png" crc="400375554" seo="true" ref="croxhapox">
       <caption webpage="croxhapox" alt=""/>
     </file>
-    <file name="animal cinema.png" crc="384123670" seo="true" ref="croxhapox">
+    <file name="animal cinema.png" crc="3993020291" seo="true" ref="animal-cinema">
       <caption webpage="croxhapox" alt=""/>
+      <caption webpage="animal-cinema" alt=""/>
     </file>
     <file name="5.jpg" crc="4161004965" seo="true" ref="gift">
       <caption webpage="gift" alt=""/>
@@ -102,12 +105,22 @@
     <file name="8.jpg" crc="3840799170" seo="true" ref="gift">
       <caption webpage="gift" alt=""/>
     </file>
+    <file name="48.jpg" crc="140851280" seo="true" ref="croxhapox">
+      <caption webpage="croxhapox" alt=""/>
+    </file>
+    <file name="screenshot 2019-02-22 at 135709.jpg" crc="452455855" seo="true" ref="croxhapox">
+      <caption webpage="croxhapox" alt=""/>
+    </file>
+    <file name="p1000458.jpg" crc="3790251383" seo="true" ref="croxhapox">
+      <caption webpage="croxhapox" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="428818345" seo="true" mt="1550828787766" redirect="true"/>
+  <file name="index.html" crc="366727284" seo="true" mt="1550839456515" redirect="true"/>
   <file name="curriculum.html" crc="4186480737" seo="true" mt="1550835119990" redirect="true"/>
-  <file name="about.html" crc="4189877048" seo="true" mt="1550836486580" redirect="true"/>
+  <file name="about.html" crc="3973214297" seo="true" mt="1550839505093" redirect="true"/>
   <file name="contact.html" crc="430877057" seo="true" mt="1550836839921" redirect="true"/>
-  <file name="a-garden.html" crc="458600754" seo="true" mt="1550837192928" redirect="true"/>
-  <file name="croxhapox.html" crc="96350152" seo="true" mt="1550838913699" redirect="true"/>
+  <file name="a-garden.html" crc="3840853954" seo="true" mt="1550839597347" redirect="true"/>
+  <file name="croxhapox.html" crc="4028389776" seo="true" mt="1550842722029" redirect="true"/>
   <file name="gift.html" crc="504400842" seo="true" mt="1550839297720" redirect="true"/>
+  <file name="animal-cinema.html" crc="375117555" seo="true" mt="1550842146676" redirect="true"/>
 </manifest>
