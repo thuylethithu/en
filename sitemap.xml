@@ -12,25 +12,28 @@
       <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/12-crop-u188.jpg</image:loc>
+      <image:loc>http://thuy.com/images/12-crop-u886.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/16,,-crop-u876.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/16,,-crop-u178.jpg</image:loc>
+      <image:loc>http://thuy.com/images/237372.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/p1000166-crop-u186.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1000166-crop-u884.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/12-crop-u1882.jpg</image:loc>
+      <image:loc>http://thuy.com/images/12-crop-u8862.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/16,,-crop-u1782.jpg</image:loc>
+      <image:loc>http://thuy.com/images/16,,-crop-u8762.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/p1000166-crop-u1862.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1000166-crop-u8842.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -90,10 +93,13 @@
       <image:loc>http://thuy.com/images/glass%20view%20copy.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thuy.com/images/48.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thuy.com/images/books.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/corner.png</image:loc>
+      <image:loc>http://thuy.com/images/screenshot%202019-02-22%20at%20135709.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/gift.png</image:loc>
@@ -102,10 +108,7 @@
       <image:loc>http://thuy.com/images/exit.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/48.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuy.com/images/screenshot%202019-02-22%20at%20135709.jpg</image:loc>
+      <image:loc>http://thuy.com/images/corner.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/p1000458.jpg</image:loc>
@@ -133,6 +136,33 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thuy.com/images/animal%20cinema.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/panda-lab.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/11-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/screen%20shot%202017-11-30%20at%20112025.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_6100.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_6104.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/music-corner.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/screenshot%202019-02-22%20at%20153323.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
