@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thuy.com/index.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thuy.com/images/p1000212.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thuy.com/images/12-crop-u886.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thuy.com/images/16,,-crop-u876.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/12-crop-u886.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/237372.jpg</image:loc>
@@ -27,18 +27,18 @@
       <image:loc>http://thuy.com/images/p1000166-crop-u884.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/12-crop-u8862.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thuy.com/images/16,,-crop-u8762.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/p1000166-crop-u8842.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/12-crop-u8862.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thuy.com/curriculum.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>http://thuy.com/about.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,16 +56,19 @@
   </url>
   <url>
     <loc>http://thuy.com/contact.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/p1000212.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/banaan.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://thuy.com/a-garden.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -77,7 +80,7 @@
   </url>
   <url>
     <loc>http://thuy.com/croxhapox.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -139,30 +142,96 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/panda-lab.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <loc>http://thuy.com/2016-2017.html</loc>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuy.com/images/11-2.jpg</image:loc>
+      <image:loc>http://thuy.com/images/12-crop-u1223.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/screen%20shot%202017-11-30%20at%20112025.jpg</image:loc>
+      <image:loc>http://thuy.com/images/screen%20shot%202017-11-21%20at%20171529.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/img_6100.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1050673.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_4206kopie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/p1050686.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/screenshot%202019-02-26%20at%20150413.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/screenshot%202019-02-26%20at%20150556.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/_dsc0291.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/img_6104.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/18.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_5852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_5848.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_5844.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/12-crop-u1530.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/music-corner.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <loc>http://thuy.com/tomas.html</loc>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://thuy.com/images/screenshot%202019-02-22%20at%20153323.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/panda-lab.html</loc>
+    <lastmod>2019-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/11-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/kassel.html</loc>
+    <lastmod>2019-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/thuy%20(definitief)%20(transparant).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/img_1576.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thuy.com/images/thuy%20(definitief)%20(transparant)222x117.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://thuy.com/nieuw.html</loc>
+    <lastmod>2019-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
