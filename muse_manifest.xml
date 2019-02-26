@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551198536559">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551199220646">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="tomas.css" crc="226710309" ref="tomas"/>
-    <file name="cont.css" crc="386520137" ref="cont"/>
-    <file name="lab.css" crc="447376023" ref="lab"/>
+    <file name="cont.css" crc="262524397" ref="cont"/>
+    <file name="lab.css" crc="127756599" ref="lab"/>
     <file name="tuin.css" crc="420219943" ref="tuin"/>
-    <file name="kassel.css" crc="515069008" ref="kassel"/>
-    <file name="crox.css" crc="417129377" ref="crox"/>
+    <file name="kassel.css" crc="358822882" ref="kassel"/>
+    <file name="crox.css" crc="3907534883" ref="crox"/>
     <file name="index.css" crc="69030527" ref="index"/>
     <file name="new.css" crc="4009671366" ref="new"/>
-    <file name="pakje.css" crc="467556674" ref="pakje"/>
-    <file name="dierencinema.css" crc="4114049680" ref="dierencinema"/>
+    <file name="pakje.css" crc="3893131236" ref="pakje"/>
+    <file name="dierencinema.css" crc="25154309" ref="dierencinema"/>
     <file name="cv.css" crc="88539836" ref="cv"/>
-    <file name="2016-en-2017.css" crc="3915921144" ref="2016-en-2017"/>
+    <file name="2016-en-2017.css" crc="281842845" ref="2016-en-2017"/>
     <file name="over.css" crc="320343750" ref="over"/>
   </folder>
   <folder name="scripts">
@@ -126,7 +126,7 @@
     </file>
     <file name="u1281-4.png" crc="4038289963" ref="2016-en-2017"/>
     <file name="u1296-4.png" crc="407105654" ref="2016-en-2017"/>
-    <file name="_dsc0291.jpg" crc="3952084928" seo="true" ref="2016-en-2017">
+    <file name="_dsc0291.jpg" crc="4080649179" seo="true" ref="2016-en-2017">
       <caption webpage="2016-en-2017" alt=""/>
     </file>
     <file name="img_6104.jpg" crc="71645842" seo="true" ref="2016-en-2017">
@@ -185,18 +185,20 @@
     <file name="thuy (definitief) (transparant)192x102.jpg" crc="3934098020" seo="true" ref="kassel">
       <caption webpage="kassel" alt=""/>
     </file>
+    <file name="u1955-4.png" crc="4226622966" ref="pakje"/>
+    <file name="u1946-4.png" crc="4226622966" ref="dierencinema"/>
   </folder>
-  <file name="cv.html" crc="409844646" seo="true" mt="1551197298115" redirect="true"/>
+  <file name="cv.html" crc="292567222" seo="true" mt="1551199015394" redirect="true"/>
   <file name="over.html" crc="3956083977" seo="true" mt="1551197345030" redirect="true"/>
-  <file name="cont.html" crc="3875231090" seo="true" mt="1551197345034" redirect="true"/>
-  <file name="tuin.html" crc="3870498233" seo="true" mt="1551197323017" redirect="true"/>
-  <file name="crox.html" crc="4013896924" seo="true" mt="1551197345032" redirect="true"/>
-  <file name="pakje.html" crc="21634543" seo="true" mt="1551197327337" redirect="true"/>
-  <file name="dierencinema.html" crc="304637238" seo="true" mt="1551197334398" redirect="true"/>
-  <file name="2016-en-2017.html" crc="89504584" seo="true" mt="1551198511070" redirect="true"/>
+  <file name="cont.html" crc="4142122847" seo="true" mt="1551198747120" redirect="true"/>
+  <file name="tuin.html" crc="200407337" seo="true" mt="1551198774418" redirect="true"/>
+  <file name="crox.html" crc="3927995353" seo="true" mt="1551198964664" redirect="true"/>
+  <file name="pakje.html" crc="430804242" seo="true" mt="1551199179666" redirect="true"/>
+  <file name="dierencinema.html" crc="212948934" seo="true" mt="1551199146143" redirect="true"/>
+  <file name="2016-en-2017.html" crc="4184202817" seo="true" mt="1551198919396" redirect="true"/>
   <file name="tomas.html" crc="244888488" seo="true" mt="1551197315713" redirect="true"/>
-  <file name="lab.html" crc="4216262112" seo="true" mt="1551197341356" redirect="true"/>
-  <file name="kassel.html" crc="4272799283" seo="true" mt="1551198400233" redirect="true"/>
+  <file name="lab.html" crc="3768803582" seo="true" mt="1551198987022" redirect="true"/>
+  <file name="kassel.html" crc="126222591" seo="true" mt="1551199052571" redirect="true"/>
   <file name="new.html" crc="3772594463" seo="true" mt="1551197317851" redirect="false"/>
   <file name="index.html" crc="3992224904" seo="true" mt="1551197320329" redirect="true"/>
 </manifest>
