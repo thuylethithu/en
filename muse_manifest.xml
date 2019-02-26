@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551195333781">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551195652246">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="tomas.css" crc="226710309" ref="tomas"/>
@@ -13,7 +13,7 @@
     <file name="gift.css" crc="467556674" ref="gift"/>
     <file name="animal-cinema.css" crc="4114049680" ref="animal-cinema"/>
     <file name="curriculum.css" crc="88539836" ref="curriculum"/>
-    <file name="2016-2017.css" crc="3936357717" ref="2016-2017"/>
+    <file name="2016-2017.css" crc="4067712748" ref="2016-2017"/>
     <file name="about.css" crc="320343750" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -29,8 +29,8 @@
     <file name="p1000212.jpg" crc="4166215290" seo="true" ref="index:about:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="16,,-crop-u876.jpg" crc="3932698623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -210,7 +210,7 @@
   <file name="croxhapox.html" crc="4147930272" seo="true" mt="1551189420376" redirect="true"/>
   <file name="gift.html" crc="504400842" seo="true" mt="1550839297720" redirect="true"/>
   <file name="animal-cinema.html" crc="375117555" seo="true" mt="1550842146676" redirect="true"/>
-  <file name="2016-2017.html" crc="146607794" seo="true" mt="1551193980156" redirect="true"/>
+  <file name="2016-2017.html" crc="194541554" seo="true" mt="1551195585735" redirect="true"/>
   <file name="tomas.html" crc="3997406371" seo="true" mt="1551194784579" redirect="true"/>
   <file name="panda-lab.html" crc="4060597957" seo="true" mt="1551192323688" redirect="true"/>
   <file name="kassel.html" crc="375735068" seo="true" mt="1551195247857" redirect="true"/>
