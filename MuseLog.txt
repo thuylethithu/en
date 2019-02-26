@@ -231,3 +231,94 @@ Logging in build 2018.1.0.266 started at: Wed May 30 20:24:30 2018
 [00:01:33.123] 20:26:03.386 | Trying to open file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse with size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018
 [00:01:33.139] 20:26:03.402 | Opening file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' with status:success size:15302656 mod Date:Tue May 29 22:47:43 GMT+0200 2018 highestUID: 1630
 [00:03:21.191] 20:27:51.454 | HTMLExport Website-1(2)(11 pages) to 'thuylethithu.github.io' completed with 0 warnings.
+[00:55:12.475] 21:19:42.738 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1630
+[00:55:14.331] 21:19:44.593 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Wed May 30 21:19:44 GMT+0200 2018 highest UID:1630
+[02:23:28.842] 22:47:59.104 | quitWithUI:Quitting Application. Called by: 
+[02:23:30.437] 22:48:00.699 | Beginning Save for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' highest UID:1630
+[02:23:31.952] 22:48:02.215 | Save complete for file '/Users/Thuy/Documents/LUCA/LUCA Gent/3/Professionalisering/Professionalisering 3/Website-1(2).muse' file size:15302656 mod Date:Wed May 30 22:48:02 GMT+0200 2018 highest UID:1630
+[02:23:32.973] 22:48:03.235 | Quitting Application after 143.5 minutes. Called by: 
+[02:23:35.618] Logging shutdown normally
+
+==========
+Logging ended at: Wed May 30 22:48:05 2018
+
+Logging in build 2018.1.0.266 started at: Sat Nov  3 23:41:17 2018
+========================================
+[00:00:07.931] 23:41:25.024 | Error - IMS : No AdobeID signed in
+[38:06:34.431] 13:47:51.521 | quitWithUI:Quitting Application. Called by: 
+[38:06:34.460] 13:47:51.553 | Quitting Application after 2286.5 minutes. Called by: 
+[38:06:36.806] Logging shutdown normally
+
+==========
+Logging ended at: Mon Nov  5 13:47:54 2018
+
+Logging in build 2018.1.0.266 started at: Wed Dec  5 14:50:07 2018
+========================================
+[04:41:46.237] 19:31:53.950 | quitWithUI:Quitting Application. Called by: 
+[04:41:46.246] 19:31:53.965 | Quitting Application after 281.7 minutes. Called by: 
+[04:41:49.189] Logging shutdown normally
+
+==========
+Logging ended at: Wed Dec  5 19:31:57 2018
+
+Logging in build 2018.1.0.266 started at: Fri Feb 22 10:06:12 2019
+========================================
+[00:03:40.143] 10:09:53.155 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse with size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018
+[00:03:40.157] 10:09:53.169 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse' with status:success size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018 highestUID: 650
+[00:05:00.523] 10:11:13.535 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse with size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018
+[00:05:00.534] 10:11:13.547 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse' with status:success size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018 highestUID: 650
+[00:14:22.049] 10:20:35.061 | Beginning SaveAs of 'Website-1' to file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:93
+[00:14:24.146] 10:20:37.159 | SaveAs complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:425984 mod Date:Fri Feb 22 10:20:37 GMT+0100 2019 highest UID:93
+[00:16:33.707] 10:22:46.720 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:105
+[00:16:35.071] 10:22:48.084 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:425984 mod Date:Fri Feb 22 10:22:47 GMT+0100 2019 highest UID:105
+[00:16:42.279] 10:22:55.292 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:425984 mod Date:Fri Feb 22 10:22:47 GMT+0100 2019
+[00:16:42.282] 10:22:55.295 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:425984 mod Date:Fri Feb 22 10:22:47 GMT+0100 2019 highestUID: 105
+[00:23:50.700] 10:30:03.713 | HTMLExport Website twie(1 pages) to 'https://thuylethithu.github.io/en/index.html' completed with 0 warnings.
+[00:32:24.520] 10:38:37.533 | HTMLExport Website twie(1 pages) to 'thuy.com' completed with 0 warnings.
+[00:33:21.148] 10:39:34.161 | HTMLExport Website twie(1 pages) to 'thuy.com' completed with 0 warnings.
+[00:35:45.606] 10:41:58.619 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:169
+[00:35:47.268] 10:42:00.280 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:524288 mod Date:Fri Feb 22 10:42:00 GMT+0100 2019 highest UID:169
+[00:36:24.153] 10:42:37.166 | Trying to open file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse with size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018
+[00:36:24.166] 10:42:37.179 | Opening file '/Users/Thuy/Desktop/Professionalisering 3/Website-1.muse' with status:success size:4259840 mod Date:Sun May 6 01:28:15 GMT+0200 2018 highestUID: 650
+[00:36:50.280] 10:43:03.293 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:524288 mod Date:Fri Feb 22 10:42:00 GMT+0100 2019
+[00:36:50.284] 10:43:03.296 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:524288 mod Date:Fri Feb 22 10:42:00 GMT+0100 2019 highestUID: 169
+[00:39:55.788] 10:46:08.801 | HTMLExport Website twie(2 pages) to 'thuy.com' completed with 0 warnings.
+[03:00:09.415] 13:06:22.428 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:492
+[03:00:10.757] 13:06:23.770 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:492
+[03:36:08.424] 13:42:21.437 | HTMLExport Website twie(7 pages) to 'thuy.com' completed with 0 warnings.
+[04:36:25.547] 14:42:38.559 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:827
+[04:36:26.964] 14:42:39.977 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:827
+[04:36:39.060] 14:42:52.073 | HTMLExport Website twie(8 pages) to 'thuy.com' completed with 0 warnings.
+[04:39:50.732] 14:46:03.745 | Trying to open file '/Users/Thuy/Documents/Website/Web 2/Website twie.muse with size:9699328 mod Date:Fri Feb 22 14:42:39 GMT+0100 2019
+[04:39:50.734] 14:46:03.746 | Opening file '/Users/Thuy/Documents/Website/Web 2/Website twie.muse' with status:One or more open files have been moved or renamed. Before opening another file, the currently open files must be closed or saved using Save As. size:9699328 mod Date:Fri Feb 22 14:42:39 GMT+0100 2019 highestUID: 827
+[04:39:50.734] 14:46:03.747 | One or more open files have been moved or renamed. Before opening another file, the currently open files must be closed or saved using Save As.
+[04:41:10.741] 14:47:23.754 | Already creating a thumbnail for PI:ParameterizedHTMLPageItem U834. May not be a problem.
+[04:56:38.449] 15:02:51.461 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:859
+[04:56:40.247] 15:02:53.260 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:859
+[04:57:14.826] 15:03:27.839 | HTMLExport Website twie(8 pages) to 'thuy.com' completed with 0 warnings.
+[04:58:09.786] 15:04:22.799 | HTMLExport Website twie(8 pages) to 'thuy.com' completed with 0 warnings.
+[05:19:08.644] 15:25:21.656 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:949
+[05:19:10.116] 15:25:23.129 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' but the file doesn't seem to exist. Moved, renamed or deleted? highest UID:949
+[05:20:03.801] 15:26:16.814 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:9928704 mod Date:Fri Feb 22 15:25:22 GMT+0100 2019
+[05:20:03.817] 15:26:16.829 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:9928704 mod Date:Fri Feb 22 15:25:22 GMT+0100 2019 highestUID: 949
+[05:20:04.604] 15:26:17.616 | deleteHiddenBreakpointsOnMasters deleted 1 hidden breakpoints on masters
+[05:21:15.748] 15:27:28.761 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:963
+[05:21:17.200] 15:27:30.213 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:9928704 mod Date:Fri Feb 22 15:27:30 GMT+0100 2019 highest UID:963
+[05:21:20.495] 15:27:33.508 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:9928704 mod Date:Fri Feb 22 15:27:30 GMT+0100 2019
+[05:21:20.514] 15:27:33.527 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:9928704 mod Date:Fri Feb 22 15:27:30 GMT+0100 2019 highestUID: 963
+[05:30:04.822] 15:36:17.835 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:1040
+[05:30:06.216] 15:36:19.228 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:9928704 mod Date:Fri Feb 22 15:36:19 GMT+0100 2019 highest UID:1040
+[05:30:12.443] 15:36:25.456 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:9928704 mod Date:Fri Feb 22 15:36:19 GMT+0100 2019
+[05:30:12.464] 15:36:25.477 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:9928704 mod Date:Fri Feb 22 15:36:19 GMT+0100 2019 highestUID: 1040
+[05:41:55.282] 15:48:08.295 | HTMLExport Website twie(10 pages) to 'thuy.com' completed with 0 warnings.
+[05:55:58.756] 16:02:11.768 | Beginning Save for file '/Users/Thuy/Documents/Website/Website twie.muse' highest UID:1132
+[05:56:00.635] 16:02:13.647 | Save complete for file '/Users/Thuy/Documents/Website/Website twie.muse' file size:9928704 mod Date:Fri Feb 22 16:02:13 GMT+0100 2019 highest UID:1132
+[13:00:51.244] 23:07:04.256 | Trying to open file '/Users/Thuy/Documents/Website/Website twie.muse with size:9928704 mod Date:Fri Feb 22 16:02:13 GMT+0100 2019
+[13:00:51.279] 23:07:04.292 | Opening file '/Users/Thuy/Documents/Website/Website twie.muse' with status:success size:9928704 mod Date:Fri Feb 22 16:02:13 GMT+0100 2019 highestUID: 1132
+[29:59:56.385] 16:06:09.397 | quitWithUI:Quitting Application. Called by: 
+[29:59:56.391] 16:06:09.404 | Quitting Application after 1799.8 minutes. Called by: 
+[30:00:02.309] Logging shutdown normally
+
+==========
+Logging ended at: Sat Feb 23 16:06:15 2019
+
