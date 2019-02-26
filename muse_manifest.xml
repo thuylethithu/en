@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551196439276">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thuy.com" resolutions="1x" timestamp="1551196592402">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="tomas.css" crc="226710309" ref="tomas"/>
@@ -6,8 +6,8 @@
     <file name="panda-lab.css" crc="447376023" ref="panda-lab"/>
     <file name="a-garden.css" crc="420219943" ref="a-garden"/>
     <file name="kassel.css" crc="263844995" ref="kassel"/>
-    <file name="index.css" crc="69030527" ref="index"/>
     <file name="croxhapox.css" crc="417129377" ref="croxhapox"/>
+    <file name="index.css" crc="69030527" ref="index"/>
     <file name="nieuw.css" crc="4009671366" ref="nieuw"/>
     <file name="gift.css" crc="467556674" ref="gift"/>
     <file name="animal-cinema.css" crc="4114049680" ref="animal-cinema"/>
@@ -16,30 +16,17 @@
     <file name="about.css" crc="320343750" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
-    <file name="museutils.js" crc="340535759" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
-    <file name="whatinput.js" crc="86476730" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
-    <file name="museconfig.js" crc="310584261" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
-    <file name="require.js" crc="7928878" ref="index:curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
+    <file name="museutils.js" crc="340535759" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
+    <file name="whatinput.js" crc="86476730" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
+    <file name="museconfig.js" crc="310584261" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
+    <file name="require.js" crc="7928878" ref="curriculum:about:contact:a-garden:croxhapox:gift:animal-cinema:2016-2017:tomas:panda-lab:kassel:nieuw:index"/>
   </folder>
   <folder name="images">
-    <file name="p1000212.jpg" crc="4166215290" seo="true" ref="index:about:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="about" alt=""/>
-    </file>
-    <file name="img_20170309_170020.jpg" crc="4042251947" seo="true" ref="index:curriculum">
+    <file name="img_20170309_170020.jpg" crc="4042251947" seo="true" ref="curriculum:index">
       <caption webpage="index" alt=""/>
       <caption webpage="curriculum" alt=""/>
-    </file>
-    <file name="p1000213.jpg" crc="249398310" seo="true" ref="index:a-garden:croxhapox">
-      <caption webpage="index" alt=""/>
-      <caption webpage="a-garden" alt=""/>
-      <caption webpage="croxhapox" alt=""/>
-    </file>
-    <file name="237372.jpg" crc="407247211" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u1202-4.png" crc="3948887279" ref="curriculum"/>
     <file name="u295-7.png" crc="103795908" ref="curriculum"/>
@@ -47,6 +34,11 @@
     <file name="u296-71.png" crc="506514428" ref="curriculum"/>
     <file name="u293-182.png" crc="195376198" ref="curriculum"/>
     <file name="u294-31.png" crc="4151153906" ref="curriculum"/>
+    <file name="p1000212.jpg" crc="4166215290" seo="true" ref="about:contact:index">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u363-25.png" crc="515801019" ref="about"/>
     <file name="u373-4.png" crc="4226622966" ref="about"/>
     <file name="banaan.png" crc="10732711" seo="true" ref="contact">
@@ -59,6 +51,11 @@
     </file>
     <file name="u451-10.png" crc="78450718" ref="a-garden"/>
     <file name="u1150-4.png" crc="3905216730" ref="a-garden"/>
+    <file name="p1000213.jpg" crc="249398310" seo="true" ref="a-garden:croxhapox:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-garden" alt=""/>
+      <caption webpage="croxhapox" alt=""/>
+    </file>
     <file name="u1667-4.png" crc="3948887279" ref="a-garden"/>
     <file name="site.png" crc="503933218" seo="true" ref="croxhapox">
       <caption webpage="croxhapox" alt=""/>
@@ -185,8 +182,10 @@
     <file name="16,,-crop-u1791.jpg" crc="3932698623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="237372.jpg" crc="407247211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="476189295" seo="true" mt="1551196297072" redirect="true"/>
   <file name="curriculum.html" crc="445243770" seo="true" mt="1551196093045" redirect="true"/>
   <file name="about.html" crc="3804107960" seo="true" mt="1551196094949" redirect="true"/>
   <file name="contact.html" crc="140498587" seo="true" mt="1551196093046" redirect="true"/>
@@ -199,4 +198,5 @@
   <file name="panda-lab.html" crc="4060597957" seo="true" mt="1551192323688" redirect="true"/>
   <file name="kassel.html" crc="499596762" seo="true" mt="1551196093042" redirect="true"/>
   <file name="nieuw.html" crc="3906761450" seo="true" mt="1551195077994" redirect="false"/>
+  <file name="index.html" crc="476189295" seo="true" mt="1551196297072" redirect="true"/>
 </manifest>

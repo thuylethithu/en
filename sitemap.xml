@@ -6,16 +6,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuy.com/images/p1000212.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1000212.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/237372.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thuy.com/images/p1000166-crop-u1784.jpg</image:loc>
@@ -26,14 +23,8 @@
     <image:image>
       <image:loc>http://thuy.com/images/16,,-crop-u1791.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://thuy.com/curriculum.html</loc>
-    <lastmod>2019-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
+      <image:loc>http://thuy.com/images/237372.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -63,10 +54,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
+      <image:loc>http://thuy.com/images/a%20garden.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://thuy.com/images/a%20garden.jpg</image:loc>
+      <image:loc>http://thuy.com/images/p1000213.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -124,12 +115,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/animal-cinema.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <loc>http://thuy.com/curriculum.html</loc>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://thuy.com/images/animal%20cinema.png</image:loc>
+      <image:loc>http://thuy.com/images/img_20170309_170020.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -224,5 +215,14 @@
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thuy.com/animal-cinema.html</loc>
+    <lastmod>2019-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thuy.com/images/animal%20cinema.png</image:loc>
+    </image:image>
   </url>
 </urlset>
