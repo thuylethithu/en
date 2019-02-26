@@ -28,7 +28,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/about.html</loc>
+    <loc>http://thuy.com/over.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,7 +37,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/contact.html</loc>
+    <loc>http://thuy.com/cont.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -49,7 +49,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/a-garden.html</loc>
+    <loc>http://thuy.com/tuin.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -61,7 +61,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/croxhapox.html</loc>
+    <loc>http://thuy.com/crox.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -100,8 +100,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/gift.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <loc>http://thuy.com/pakje.html</loc>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -115,7 +115,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/curriculum.html</loc>
+    <loc>http://thuy.com/cv.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -124,7 +124,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/2016-2017.html</loc>
+    <loc>http://thuy.com/2016-en-2017.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -187,7 +187,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/panda-lab.html</loc>
+    <loc>http://thuy.com/lab.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -211,14 +211,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://thuy.com/nieuw.html</loc>
+    <loc>http://thuy.com/new.html</loc>
     <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://thuy.com/animal-cinema.html</loc>
-    <lastmod>2019-02-22</lastmod>
+    <loc>http://thuy.com/dierencinema.html</loc>
+    <lastmod>2019-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
